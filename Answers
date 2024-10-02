@@ -1,0 +1,18 @@
+B  Download the Dart SDK 
+D dart --version
+B Update your PATH
+C flutter run
+
+Python installation
+B Download Python from the official website 
+C Add Python to PATH
+A By running python --version
+B pip install python
+A A) To keep your projects organized in one folder
+
+MySQL installation
+ B Download MySQL Installer from the official website
+ D Custom
+ A MySQL Server, MySQL Workbench, and MySQL Shell
+ B) To secure your MySQL installation with a super-secret password
+  B Launch MySQL Workbench and connect to your MySQL Server
